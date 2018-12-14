@@ -1,0 +1,22 @@
+﻿@model List<QuizWord>
+@{
+    ViewData["Title"] = "This is your quiz page";
+
+}
+<div class="containe mt-3">
+    <h2 class="display-4">Quiz</h2>
+    <label for="customRange2"> Tile Size</label>
+    <input type="range" class="custom-range" min="0" max="5" id="customRange2">
+</div>
+<div class="jumbotron mt-5">
+    @foreach (var word in Model)
+    {
+        <div class="d-flex flex-row mb-3 bd-hightlight">
+            <div class="container">
+                <h1>@word.Lemma</h1>
+                <h1>@word.Parsing</h1>
+                <h1>@word.Explanation</h1>
+            </div>
+        </div>
+    }
+</div>
