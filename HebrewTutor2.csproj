@@ -133,7 +133,9 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\QuizWordController.cs" />
     <Compile Include="DAL\QuizContext.cs" />
+    <Compile Include="DAL\QuizWordInitializer.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -183,6 +185,11 @@
     <Content Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Home\Quiz.cshtml" />
+    <Content Include="Views\QuizWord\Create.cshtml" />
+    <Content Include="Views\QuizWord\Delete.cshtml" />
+    <Content Include="Views\QuizWord\Details.cshtml" />
+    <Content Include="Views\QuizWord\Edit.cshtml" />
+    <Content Include="Views\QuizWord\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

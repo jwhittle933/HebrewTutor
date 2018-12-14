@@ -8,6 +8,11 @@ using System.Data.Entity.ModelConfiguration.Conventions;
 
 namespace HebrewTutor2.DAL
 {
+
+    /*
+     * The process of requesting data automatically triggers the creation of the database
+     * 
+     */
     public class QuizContext : DbContext 
     {
         public DbSet<QuizWord> QuizWords { get; set; }

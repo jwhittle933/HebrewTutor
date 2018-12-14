@@ -78,3 +78,7 @@ C:\Users\charl\OneDrive\Desktop\Dev Projects\HebrewTutor2\HebrewTutor2\obj\Debug
 C:\Users\charl\OneDrive\Desktop\Dev Projects\HebrewTutor2\HebrewTutor2\obj\Debug\HebrewTutor2.csproj.CopyComplete
 C:\Users\charl\OneDrive\Desktop\Dev Projects\HebrewTutor2\HebrewTutor2\obj\Debug\HebrewTutor2.dll
 C:\Users\charl\OneDrive\Desktop\Dev Projects\HebrewTutor2\HebrewTutor2\obj\Debug\HebrewTutor2.pdb
+C:\Users\charl\OneDrive\Desktop\Dev Projects\HebrewTutor2\HebrewTutor2\bin\EntityFramework.dll
+C:\Users\charl\OneDrive\Desktop\Dev Projects\HebrewTutor2\HebrewTutor2\bin\EntityFramework.SqlServer.dll
+C:\Users\charl\OneDrive\Desktop\Dev Projects\HebrewTutor2\HebrewTutor2\bin\EntityFramework.xml
+C:\Users\charl\OneDrive\Desktop\Dev Projects\HebrewTutor2\HebrewTutor2\bin\EntityFramework.SqlServer.xml
